@@ -6,6 +6,8 @@
 
 import pygetwindow as gw
 import time
+from tkinter import *
+from tkinter import ttk
 while True:
     browsers = [] 
     for window in gw.getAllWindows(): # We get all windows that are currently open 
@@ -19,9 +21,14 @@ while True:
                                               browser.close()
                                         except:
                                                pass
+                                 root = Tk()
+                                 frm = ttk.Frame(root, padding=10)
+                                 frm.grid()
+                                 root.title("ANTI-DISTRACTION PROGRAM")
+                                 ttk.Label(frm, text="STOP BEING DISTRACTED!").grid(column=0, row=0) # To remind me of my mistakes
+                                 root.mainloop()
                             
     time.sleep(15) # Of course, it needs to keep running.
-
 # Now at the moment this is just a Python file. I packaged it into an .exe file using a library I found after some Googling, but I'm not sure if it's good practice to
 # upload .exe files on github. So here's the "source code".
 # With the .exe file that I have locally, I can now run it on startup on my laptop.
