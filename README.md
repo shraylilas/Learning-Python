@@ -1,6 +1,14 @@
-At the time of writing, it's June 2026. So right now I'm in the first term of Grade 11 here, and I thought it'd be worth making a start. I know a great deal of the "basics" when it comes to Python programming. But let's take it to the next level.
+Hi. I'm Shray. I'm trying to learn how to program, and the only language I know so far is Python. Since I'm also learning it at school, might as well stick with it for the rest of highschool. 
+Here's how I'm going to learn how to program.
 
-What do I aim to do for the next two years of highschool? Well, I'm glad you asked.
-1. I'd like to "simulate" whatever concepts I learn in school. I've done a bit of that already.
-2. Learn how to automate or otherwise script things that I do using a computer. You know, the usual stuff like mass renaming files or something.
-3. Tinker around with APIs or operating systems for fun as well.
+1. I'd like to "simulate" whatever concepts I learn in school. I've done a bit of that already. You'll find that in Simulation.
+2. Learn how to automate or otherwise script things that I do using a computer. Found in Automation.
+3. Make a few "big" or "cool" projects that I'm interested in.
+Plus a few silly stuff here and there, of course.
+
+PROJECTS:
+Kautilya
+I got really obsessed with this idea of how AI could help me study. I saw this one TED talk by an AI scientist named Advait Sarkar, and basically his notion was that using AI really just outsources your critical thinking. Plus a slew of similar claims. Of course, that's one camp. The other camp thinks that AI is really, really useful.
+So I downloaded an AI model. It's Llama 3.2 with 3B parameters. Moreover, I'm using Ollama to interface with it. 
+I'm going to try and tinker with this thing to try and make it good for learning. So here we go!
+
