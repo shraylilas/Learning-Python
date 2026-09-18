@@ -14,5 +14,5 @@ I got really obsessed with this idea of how AI could help me study. I saw this o
 
 So I downloaded an AI model. It's Llama 3.2 with 3B parameters. Moreover, I'm using Ollama to interface with it. 
 
-I'm going to try and tinker with this thing to try and make it good for learning.
+I'm going to try and tinker with this thing to make it actually good for learning and help me out. And most importantly, it's a pretty good excuse to get better at programming!
 
